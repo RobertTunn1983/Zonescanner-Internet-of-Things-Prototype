@@ -1,5 +1,4 @@
 Zonescanner automated image detection
-CENSIS award winning project
 
 Demonstration available at:
 
